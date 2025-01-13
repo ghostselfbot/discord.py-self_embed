@@ -17,7 +17,7 @@ It uses [Benny's Embed Generator](https://benny.fun/embed).
 >   colour="FFBB00"
 > )
 > embed.set_author("Benny")
-> embed.set_image("https://raw.githubusercontent.com/bennyscripts/ghost/refs/heads/main/ghost.png", big=False)
+> embed.set_image("https://raw.githubusercontent.com/ghostselfbot/ghost/refs/heads/main/ghost.png", big=False)
 > 
 > url = embed.generate_url(hide_url=True) # You can also convert the embed to a string.
 > print(url) # The url will be put in your ctx.send() content.
