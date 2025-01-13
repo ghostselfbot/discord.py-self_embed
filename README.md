@@ -5,7 +5,7 @@ It uses [Benny's Embed Generator](https://benny.fun/embed).
 
 ### Install
 > ```bash
-> $ pip install 'discord.py-self_embed @ git+https://github.com/bentettmar/discord.py-self_embed'
+> $ pip install 'discord.py-self_embed @ git+https://github.com/ghostselfbot/discord.py-self_embed'
 > ```
 
 ### Example
